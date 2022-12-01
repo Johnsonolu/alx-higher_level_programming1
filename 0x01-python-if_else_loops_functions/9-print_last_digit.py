@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 # Author - Oluwasegun Johnson
-
-def print_last_digit(number);
-print(abs(number) % 10, end="")
-return (abs(number) % 10)
+def print_last_digit(number):
+    print(abs(number) % 10, end="")
+    return (abs(number) % 10)
