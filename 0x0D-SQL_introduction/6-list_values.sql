@@ -1,2 +1,2 @@
--- lists all rows of the table first_table
-SELECT * FROM first_table;
+-- SHOW ALL VALUES FORM first_table 
+SELECT * FROM first_table ;
